@@ -27,8 +27,6 @@
 
 ## • How To Install and Use
 
-`$ cd TeleGram-Scraper`
-
 * Install requierments
 
 `$ python3 setup.py -i`
