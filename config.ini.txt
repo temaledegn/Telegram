@@ -1,0 +1,7 @@
+[cred]
+id=917309
+hash=40aa9c3a4ef3f8f52bda1b7c0280d5bb
+phone=0924221803
+channel_username=tikvahethiopias,tikvahethiopia1p,tikvahethiopia
+group_username=
+n=400
